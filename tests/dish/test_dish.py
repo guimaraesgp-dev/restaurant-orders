@@ -3,7 +3,7 @@ from src.models.ingredient import Ingredient, Restriction
 import pytest
 
 
-# Define test function
+# Req 2
 def test_dish():
     pizza = "pizza"
     feijoada = "feijoada"
